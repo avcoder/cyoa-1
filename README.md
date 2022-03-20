@@ -16,8 +16,11 @@ You decide to take the path of wood.  You soon meet a farmer and ask "Can I have
 - If you refuse to open the door, [click here](#refuse)
 
 # Open Door
+You open the door.  The big bad wolf gobbles you up.  The End.
 
 # Refuse
+You refuse to open the door.  The big bad wolf yells, "Little pig, little pig, let me in!" You reply, "Not by the hair on my chinny-chin chin".  The big bad wolf yells, then I'll huff, and I'll puff and I'll blow your house down"   The wolf blows your house down, and you escape just in time to try to find your brother's house.
+- Go to brother's house [click here](#Finale)
 
 # Bricks
 You decide to take the path of bricks.  You soon meet a farmer and ask "Can I have some bricks to build a house?"  The farmer agrees and gives you the bricks.  After many hours of work, you finally built a house out of bricks and live inside it.  But you then hear a knock on the door.  What do you do?
