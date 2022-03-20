@@ -15,7 +15,7 @@ You decide to take the path of wood.  You soon meet a farmer and ask "Can I have
 - If you choose to open the door, [click here](#OpenDoor)
 - If you refuse to open the door, [click here](#refuse)
 
-# OpenDoor
+# Open Door
 
 # Refuse
 
