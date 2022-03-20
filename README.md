@@ -1,4 +1,4 @@
-# Introduction
+# Intro
 
 Once upon a time, you lived in a house of a family of pigs.  One day momma pig says to you and your 2 siblings, "Now children, it's time to find your own away in the world and move out."  As everyone says their goodbyes, your 2 brother pigs each take a different path.  You start to walk but come a across a fork in the road.  Choose a path:
 - If you choose to take the path of straw, [click here](#Straw)
@@ -20,17 +20,6 @@ You decide to take the path of wood.  You soon meet a farmer and ask "Can I have
 # Refuse
 
 # Bricks
-```js
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-```
+You decide to take the path of bricks.  You soon meet a farmer and ask "Can I have some bricks to build a house?"  The farmer agrees and gives you the bricks.  After many hours of work, you finally built a house out of bricks and live inside it.  But you then hear a knock on the door.  What do you do?
+- If you choose to open the door, [click here](#OpenDoor)
+- If you refuse to open the door, [click here](#refuse)
