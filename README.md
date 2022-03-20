@@ -37,17 +37,6 @@ Once upon a time, you lived in a house of a family of pigs.  One day momma pig s
 ```
 
 # Bricks
-```js
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-```
+You decide to take the path of bricks.  You soon meet a farmer and ask "Can I have some bricks to build a house?"  The farmer agrees and gives you the bricks.  After many hours of work, you finally built a house out of bricks and live inside it.  But you then hear a knock on the door.  What do you do?
+- If you choose to open the door, [click here](#OpenDoor)
+- If you refuse to open the door, [click here](#refuse)
